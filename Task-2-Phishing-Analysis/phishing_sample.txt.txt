@@ -1,0 +1,17 @@
+From: accounts-security@micros0ft-support.net
+Subject: URGENT: Unusual sign-in activity for your account
+
+Dear Valued Customer,
+
+Our automated systems have detected an unusual sign-in attempt on your account from an unrecognized device in a foreign location. For your protection, we have temporarily limited access to your account features.
+
+To restore full access and verify your identity, you must click the link below and follow the instructions:
+
+http://secure-login-portal.xyz/verification/auth
+
+Failure to complete this verification within 24 hours will lead to a permanent deactivation of your account and loss of all associated data.
+
+We take your security seriously and apologize for any inconvenience.
+
+Regards,
+The Microsoft Security Team
